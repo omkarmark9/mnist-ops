@@ -13,7 +13,7 @@ docker run -p 8001:8001 -t mnist
 
 #To run Singularity container
 
-'''bash
+```bash
 cd singularity
 
 Vagrant up
@@ -32,4 +32,4 @@ Once inside the container,
 
 python3 main.py —epochs 1
 
-'''
+```
