@@ -11,7 +11,7 @@ docker run -p 8001:8001 -t mnist
 
 ```
 
-#To run Singularity container
+# To run Singularity container
 
 ```bash
 cd singularity
