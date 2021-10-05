@@ -1,3 +1,5 @@
+Project focuses on deploying Convolutional Neural networks as a Microservice(AIaaS), by leveraging docker to handle system level dependencies,kubernetes for orchestration on IBMCloud.
+
 # Training MNIST on Docker and Singularity using Vagrant
 
 ```bash
